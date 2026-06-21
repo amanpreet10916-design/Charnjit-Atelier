@@ -165,5 +165,13 @@ font-size:38px;
 .about h2{
 font-size:30px;
 }
+.contact a{
+color:#c9a86a;
+font-weight:bold;
+text-decoration:none;
+}
 
+.contact a:hover{
+text-decoration:underline;
+}
 }
